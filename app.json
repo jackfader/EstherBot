@@ -1,21 +1,21 @@
 {
-  "name": "Esther Bot",
-  "description": "Esther, bot.",
-  "keywords": ["esther", "bot", "express"],
-  "website": "https://estherbot.com",
-  "repository": "https://github.com/esthercrawford/smooch-bot-example",
+  "name": "FaderBot",
+  "description": "Fader, bot.",
+  "keywords": ["Fader", "bot", "express"],
+  "website": "https://faderbot.herokuapp.com/",
+  "repository": "https://github.com/jackfader/EstherBot",
   "logo": "http://www.estherbot.com/wp-content/uploads/2016/03/EstherBot-photo.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
-      "description": "Your Smooch app token which is used to initialize the web widget.",
+      "description": "drsl9tapejzfne5t4cgsgq9gn",
       "required": true
     },
     "SMOOCH_KEY_ID": {
-      "description": "Your Smooch key ID, used to talk to the Smooch API",
+      "description": "app_5733b7fcd2db3024000b4596",
       "required": true
     },
     "SMOOCH_SECRET": {
-      "description": "Your Smooch secret, used to talk to the Smooch API",
+      "description": "gxN6fcrd8Y2jD5mmBhdHMEqv",
       "required": true
     }
   }
